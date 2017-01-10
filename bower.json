@@ -3,7 +3,7 @@
     "version"   : "v1.0.0",
     "main"      : [
         "angular-nofocus-multiselect.js",
-        "angular-nofocusmultiselect.css"
+        "angular-nofocus-multiselect.css"
     ],
     "ignore"    : [
         ".git",
