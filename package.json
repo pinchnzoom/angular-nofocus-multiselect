@@ -1,10 +1,10 @@
 {
     "name": "angular-nofocus-multiselect",
-    "version": "v1.0.0",
+    "version": "v1.0.1",
     "description": "A multi select dropdown directive for AngularJS that fixes isteven's console error of focus not being focused upon.",
     "main": [
-        "isteven-multi-select.js",
-        "isteven-multi-select.css"
+        "angular-nofocus-multiselect.js",
+        "angular-nofocus-multiselect.css"
     ],
     "repository": {
         "type": "git",
