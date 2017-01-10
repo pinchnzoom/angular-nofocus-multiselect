@@ -1,6 +1,6 @@
 {
     "name"      : "angular-nofocus-multiselect",
-    "version"   : "v1.0.0",
+    "version"   : "v1.0.1",
     "main"      : [
         "angular-nofocus-multiselect.js",
         "angular-nofocus-multiselect.css"
