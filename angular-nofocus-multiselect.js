@@ -704,9 +704,6 @@ angular.module( 'isteven-multi-select', ['ng'] ).directive( 'istevenMultiSelect'
                 $timeout( function() {
                     $scope.onClose();
                 }, 0 );
-
-                // set focus on button again
-                element.children().children()[ 0 ].focus();
             }
    
             // select All / select None / reset buttons
